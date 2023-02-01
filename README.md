@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rommel Ramos
-- 👀 I’m interested in Web Developed
-- 🌱 I’m currently learning as a Web Developer
+- 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning Laravel Framework.
 - 💞️ I’m looking to collaborate on somebody
 - 📫 How to reach me message me on ramosrommel2001@gmail.com.
 
